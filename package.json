@@ -1,0 +1,22 @@
+{
+  "name": "serialout",
+  "version": "0.0.1",
+  "description": "Serial output to terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "serialout": "serialout.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guatedude2/serialout.git"
+  },
+  "author": "Alejandro Gonzalez Sole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guatedude2/serialout/issues"
+  },
+  "homepage": "https://github.com/guatedude2/serialout#readme"
+}
